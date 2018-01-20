@@ -1,0 +1,25 @@
+{
+  "name": "crypto-calendar",
+  "version": "0.0.1",
+  "description": "A crypto currency calendar and notification app for tracking historical price fluctuations.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TDodgeCo/crypto-calendar.git"
+  },
+  "keywords": [
+    "crypto",
+    "currency",
+    "tracker",
+    "calendar"
+  ],
+  "author": "Tim Dodge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TDodgeCo/crypto-calendar/issues"
+  },
+  "homepage": "https://github.com/TDodgeCo/crypto-calendar#readme"
+}
